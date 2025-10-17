@@ -6,4 +6,4 @@ Oi! Aqui é o Jaelson, sou orgulhosamente paraibano e moro em Brasília. Atualme
 
 🌱 No momento eu estou aprendendo Linguagem C
 
-http://linkedin.com/in/jaelson-idelfonso 
+[http://linkedin.com/in/jaelson-idelfonso] 
